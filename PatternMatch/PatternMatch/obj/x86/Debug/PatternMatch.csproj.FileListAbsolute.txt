@@ -1,0 +1,17 @@
+D:\b15it020\PatternMatch\PatternMatch\bin\Debug\PatternMatch.exe
+D:\b15it020\PatternMatch\PatternMatch\bin\Debug\PatternMatch.pdb
+D:\b15it020\PatternMatch\PatternMatch\obj\x86\Debug\PatternMatch.Form1.resources
+D:\b15it020\PatternMatch\PatternMatch\obj\x86\Debug\PatternMatch.Properties.Resources.resources
+D:\b15it020\PatternMatch\PatternMatch\obj\x86\Debug\PatternMatch.csproj.GenerateResource.Cache
+D:\b15it020\PatternMatch\PatternMatch\obj\x86\Debug\PatternMatch.exe
+D:\b15it020\PatternMatch\PatternMatch\obj\x86\Debug\PatternMatch.pdb
+C:\Users\lenovo\Desktop\PatternMatch\PatternMatch\obj\x86\Debug\PatternMatch.exe
+C:\Users\lenovo\Desktop\PatternMatch\PatternMatch\obj\x86\Debug\PatternMatch.pdb
+C:\Users\lenovo\Desktop\PatternMatch\PatternMatch\bin\Debug\PatternMatch.exe
+C:\Users\lenovo\Desktop\PatternMatch\PatternMatch\bin\Debug\PatternMatch.pdb
+C:\Users\lenovo\Desktop\PatternMatch\PatternMatch\obj\x86\Debug\PatternMatch.Form1.resources
+C:\Users\lenovo\Desktop\PatternMatch\PatternMatch\obj\x86\Debug\PatternMatch.Properties.Resources.resources
+C:\Users\lenovo\Desktop\PatternMatch\PatternMatch\obj\x86\Debug\PatternMatch.csproj.GenerateResource.Cache
+C:\Users\lenovo\Desktop\PatternMatch\PatternMatch\obj\x86\Debug\PatternMatch.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Desktop\PatternMatch\PatternMatch\obj\x86\Debug\PatternMatch.Form2.resources
+C:\Users\lenovo\Desktop\PatternMatch\PatternMatch\obj\x86\Debug\PatternMatch.Form3.resources
